@@ -9,4 +9,5 @@ mkdir ~/code/personal -p
 ./homebrew.sh
 ./tmux.sh
 ./neovim.sh
+./node.sh
 ./zsh.sh
