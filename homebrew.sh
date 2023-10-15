@@ -8,3 +8,9 @@ echo "eval \"\$($(brew --prefix)/bin/brew shellenv)\"" >> ~/.bashrc
 echo "eval \"\$($(brew --prefix)/bin/brew shellenv)\"" >> ~/.zshrc
 source ~/.bashrc
 source ~/.zshrc
+
+brew install docker
+brew install tmux
+brew install golang
+brew install neovim
+brew install postman
