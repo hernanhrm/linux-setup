@@ -14,3 +14,4 @@ brew install tmux
 brew install golang
 brew install neovim
 brew install postman
+brew install starship
